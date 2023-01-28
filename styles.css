@@ -1,0 +1,7 @@
+@import url(grid.css) all;
+@import url(modal.css) all;
+
+* {
+    margin: 0;
+    padding: 0;
+}
